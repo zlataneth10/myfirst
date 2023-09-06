@@ -1,0 +1,9 @@
+hi{
+    color: greenyellow;
+    background-color: pink;
+}
+table, td, th{
+    border: 2px solid green;
+    padding: 4px;
+    background-attachment: fixed;
+}
